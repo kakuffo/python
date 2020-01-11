@@ -1,8 +1,11 @@
 # Boto3
 
 Boto are a range of dolphines found, and native to the Amzon of south america.  Amzon plc use the name for their python 
-API framework that provides a programmatic application interface to Amazon cloud services.  The python API provides the 
-Software development kit (SDK) the next version of Boto, is now stable and recommended for general use.
+API framework that provides a programmatic application interface (API) to Amazon cloud services.  The python API 
+provides the Software development kit (SDK) to enable access to all the Amazon services available to users. 
+The current (2020) version of Boto is 3, and is now stable recommendation for general python SDK use.
+
+
 It can be used side-by-side with Boto in the same project, so it is easy to start using
 Boto3 in your existing projects as well as new projects. Going forward, API updates and all new
 
