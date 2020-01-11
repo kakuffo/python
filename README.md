@@ -1,4 +1,4 @@
-#Boto3
+# Boto3
 
 Boto is a name given to a range of dolphines found, and native to the Amzon.  
 Little surprice that the Amzon plc used the namefor the python API framework.
@@ -10,14 +10,14 @@ Boto3 in your existing projects as well as new projects. Going forward, API upda
 
 ## Feature
 
-###Installing boto3
+### Installing boto3
 
 ```shell
 pip install boto3
 
 ```
 
-###Installing AWS CLI version 2 
+### Installing AWS CLI version 2 
 ```shell
 Commands for Linux install
 
@@ -51,4 +51,11 @@ AWS_ACCESS_KEY_ID - Your AWS Access Key ID
 AWS_SECRET_ACCESS_KEY - Your AWS Secret Access Key
 
 Credentials and other boto-related settings can also be stored in a boto config file. See this for details.
+
+### DevOps
+
+
+#####DevOps Ecosystem:
+
+![alt text](https://blog.testlodge.com/wp-content/uploads/2018/07/qa-in-devops.png "DevOps Ecosystem")
 
