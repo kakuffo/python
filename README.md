@@ -1,8 +1,8 @@
 # Boto3
 
-Boto is a name given to a range of dolphines found, and native to the Amzon.  
-Little surprice that the Amzon plc used the namefor the python API framework.
-the next version of Boto, is now stable and recommended for general use.
+Boto are a range of dolphines found, and native to the Amzon of south america.  Amzon plc use the name for their python 
+API framework that provides a programmatic application interface to Amazon cloud services.  The python API provides the 
+Software development kit (SDK) the next version of Boto, is now stable and recommended for general use.
 It can be used side-by-side with Boto in the same project, so it is easy to start using
 Boto3 in your existing projects as well as new projects. Going forward, API updates and all new
 
@@ -55,7 +55,7 @@ Credentials and other boto-related settings can also be stored in a boto config 
 ### DevOps
 
 
-#####DevOps Ecosystem:
+##### DevOps Ecosystem:
 
 ![alt text](https://blog.testlodge.com/wp-content/uploads/2018/07/qa-in-devops.png "DevOps Ecosystem")
 
