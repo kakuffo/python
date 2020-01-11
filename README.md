@@ -1,11 +1,11 @@
 #Boto3
 
-#####Boto is a name given to a range of dolphines found, and native to the Amzon.  
-#####Little surprice that the Amzon plc used the namefor the python API framework.
-#####the next version of Boto, is now stable and recommended for general use.
-#####It can be used side-by-side with Boto in the same project, so it is easy to start using
-#####Boto3 in your existing projects as well as new projects. Going forward, API updates and all new
-#####feature work will be focused on Boto3.
+##### Boto is a name given to a range of dolphines found, and native to the Amzon.  
+##### Little surprice that the Amzon plc used the namefor the python API framework.
+##### the next version of Boto, is now stable and recommended for general use.
+##### It can be used side-by-side with Boto in the same project, so it is easy to start using
+##### Boto3 in your existing projects as well as new projects. Going forward, API updates and all new
+##### feature work will be focused on Boto3.
 
 ## Feature
 
