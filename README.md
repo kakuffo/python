@@ -7,6 +7,31 @@ the next version of Boto, is now stable and recommended for general use.
 
 ## Feature
 
+###Installing boto3
+
+```shell
+pip install boto3
+
+```
+
+###Installing AWS CLI version 2 
+```shell
+Commands for Linux install
+
+curl "https://d1vvhvl2y92vvt.cloudfront.net/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+unzip awscliv2.zip
+sudo ./aws/install
+
+```
+
+```shell
+Commands for MacOS install
+
+curl "https://d1vvhvl2y92vvt.cloudfront.net/awscli-exe-macos.zip" -o "awscliv2.zip"
+unzip awscliv2.zip
+sudo ./aws/install
+
+```
 git tag <tagname>
 
 ## Continuous monitoring
