@@ -54,18 +54,16 @@ pip install boto3
 
 ```
 
-### Installing AWS CLI version 2 
+### Installing AWS CLI version 2 - Commands for Linux install
 ```shell
-Commands for Linux install
 
 curl "https://d1vvhvl2y92vvt.cloudfront.net/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
 unzip awscliv2.zip
 sudo ./aws/install
 
 ```
-
+### Installing AWS CLI version 2 - Commands for MacOS install
 ```shell
-Commands for MacOS install
 
 curl "https://d1vvhvl2y92vvt.cloudfront.net/awscli-exe-macos.zip" -o "awscliv2.zip"
 unzip awscliv2.zip
