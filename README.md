@@ -11,7 +11,7 @@ The table below outlines both the Amazon, and AWS services which the python BOTO
 
 
 
-| Amazon Services                                        | AWS Services                      |
+| **Amazon Services**                                   | **AWS Services**                    |
 |-------------------------------------------------------|:---------------------------------:|
 |Amazon Textract                                        |  AWS Certificate Manager                                |
 |Amazon Transcribe                                      |  AWS Cloud Development Kit (AWS CDK)
@@ -101,3 +101,4 @@ Credentials and other boto-related settings can also be stored in a boto config 
 
 ![alt text](https://blog.testlodge.com/wp-content/uploads/2018/07/qa-in-devops.png "DevOps Ecosystem")
 
+#### jmespath
