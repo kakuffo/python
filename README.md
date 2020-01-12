@@ -26,7 +26,7 @@ The table below outlines both the Amazon, and AWS services which the python BOTO
 |Amazon Relational Database Service                     |  AWS Lambda
 |Amazon Redshift                                        |  AWS Secrets Manager
 |Amazon Rekognition                                     |  AWS Step Functions
-|Amazon S3                                              |  AWS Security Token Service
+|``Amazon S3``                                          |  AWS Security Token Service
 |Amazon Kinesis Data Analytics                          |  AWS Support
 |Amazon Kinesis                                         |
 |Amazon Kinesis Data Analytics for Java Applications    |
@@ -38,10 +38,10 @@ The table below outlines both the Amazon, and AWS services which the python BOTO
 |Amazon Elastic Kubernetes Service                      |
 |Amazon Elastic Transcoder                              |
 |Amazon EMR                                             |
-|Amazon S3 Glacier                                      |
+|``Amazon S3 Glacier``                                  |
 |Amazon Comprehend Medical                              |
 |Amazon CloudFront                                      |
-|Amazon CloudWatch                                      |
+|``Amazon CloudWatch``                                  |
 |Amazon API Gateway                                     |
 
 It can be used side-by-side with Boto in the same project, so it is easy to start using
