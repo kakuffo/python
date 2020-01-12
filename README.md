@@ -4,24 +4,25 @@ Boto are a range of dolphines found, and native to the Amzon of south america.  
 API framework that provides a programmatic application interface (API) to Amazon cloud services.  The python API 
 provides the Software development kit (SDK) to enable access to all the Amazon services available to users. 
 The current (2020) version of Boto is 3, and is now stable recommendation for general python SDK use.
+The table below outlines both the Amazon, and AWS services which the python BOTO SDK provides API.
 
 | Amazon Services                                        | AWS Services                      |
 |-------------------------------------------------------|:---------------------------------:|
 |Amazon Textract                                        |  AWS Certificate Manager                                |
-|Amazon Transcribe                                      |
-|Amazon Translate                                       |
-|Amazon SNS                                             |
-|Amazon SQS                                             |
-|Amazon Simple Email Service                            |
-|Amazon Pinpoint Email API                              |
-|Amazon Pinpoint SMS and Voice API                      |
-|Amazon Pinpoint                                        |
-|Amazon Polly                                           |
-|Amazon Relational Database Service                     |
-|Amazon Redshift                                        |
-|Amazon Rekognition                                     |
-|Amazon S3                                              |
-|Amazon Kinesis Data Analytics                          |
+|Amazon Transcribe                                      |  AWS Cloud Development Kit (AWS CDK)
+|Amazon Translate                                       |  AWS CodeCommit
+|Amazon SNS                                             |  AWS Config
+|Amazon SQS                                             |  AWS DeepLens
+|Amazon Simple Email Service                            |  AWS IoT Greengrass
+|Amazon Pinpoint Email API                              |  AWS Identity and Access Management
+|Amazon Pinpoint SMS and Voice API                      |  AWS IoT
+|Amazon Pinpoint                                        |  AWS IoT Things Graph
+|Amazon Polly                                           |  AWS Key Management Service
+|Amazon Relational Database Service                     |  AWS Lambda
+|Amazon Redshift                                        |  AWS Secrets Manager
+|Amazon Rekognition                                     |  AWS Step Functions
+|Amazon S3                                              |  AWS Security Token Service
+|Amazon Kinesis Data Analytics                          |  AWS Support
 |Amazon Kinesis                                         |
 |Amazon Kinesis Data Analytics for Java Applications    |
 |Amazon Inspector                                       |
@@ -31,12 +32,12 @@ The current (2020) version of Boto is 3, and is now stable recommendation for ge
 |Amazon Elastic Container Service                       |
 |Amazon Elastic Kubernetes Service                      |
 |Amazon Elastic Transcoder                              |
-|Amazon EMR
-|Amazon S3 Glacier
-|Amazon Comprehend Medical
-|Amazon CloudFront
-|Amazon CloudWatch
-|Amazon API Gateway
+|Amazon EMR                                             |
+|Amazon S3 Glacier                                      |
+|Amazon Comprehend Medical                              |
+|Amazon CloudFront                                      |
+|Amazon CloudWatch                                      |
+|Amazon API Gateway                                     |
 
 It can be used side-by-side with Boto in the same project, so it is easy to start using
 Boto3 in your existing projects as well as new projects. Going forward, API updates and all new
