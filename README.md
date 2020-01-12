@@ -19,7 +19,7 @@ The table below outlines both the Amazon, and AWS services which the python BOTO
 |Amazon SNS                                             |  AWS Config
 |Amazon SQS                                             |  AWS DeepLens
 |Amazon Simple Email Service                            |  AWS IoT Greengrass
-|Amazon Pinpoint Email API                              |  AWS Identity and Access Management
+|Amazon Pinpoint Email API                              |  ``AWS Identity and Access Management``
 |Amazon Pinpoint SMS and Voice API                      |  AWS IoT
 |Amazon Pinpoint                                        |  AWS IoT Things Graph
 |Amazon Polly                                           |  AWS Key Management Service
