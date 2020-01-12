@@ -7,6 +7,10 @@ provides the Software development kit (SDK) to enable access to all the Amazon s
 The current (2020) version of Boto is 3, and is now stable recommendation for general python SDK use.
 The table below outlines both the Amazon, and AWS services which the python BOTO SDK provides API.
 
+[BOTO3 Documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-examples.html)
+
+
+
 | Amazon Services                                        | AWS Services                      |
 |-------------------------------------------------------|:---------------------------------:|
 |Amazon Textract                                        |  AWS Certificate Manager                                |
