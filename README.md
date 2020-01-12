@@ -5,6 +5,38 @@ API framework that provides a programmatic application interface (API) to Amazon
 provides the Software development kit (SDK) to enable access to all the Amazon services available to users. 
 The current (2020) version of Boto is 3, and is now stable recommendation for general python SDK use.
 
+| Amazon Services                                        | AWS Services                      |
+|-------------------------------------------------------|:---------------------------------:|
+|Amazon Textract                                        |  AWS Certificate Manager                                |
+|Amazon Transcribe                                      |
+|Amazon Translate                                       |
+|Amazon SNS                                             |
+|Amazon SQS                                             |
+|Amazon Simple Email Service                            |
+|Amazon Pinpoint Email API                              |
+|Amazon Pinpoint SMS and Voice API                      |
+|Amazon Pinpoint                                        |
+|Amazon Polly                                           |
+|Amazon Relational Database Service                     |
+|Amazon Redshift                                        |
+|Amazon Rekognition                                     |
+|Amazon S3                                              |
+|Amazon Kinesis Data Analytics                          |
+|Amazon Kinesis                                         |
+|Amazon Kinesis Data Analytics for Java Applications    |
+|Amazon Inspector                                       |
+|Amazon GuardDuty                                       |
+|Amazon DynamoDB                                        |
+|Amazon EC2                                             |
+|Amazon Elastic Container Service                       |
+|Amazon Elastic Kubernetes Service                      |
+|Amazon Elastic Transcoder                              |
+|Amazon EMR
+|Amazon S3 Glacier
+|Amazon Comprehend Medical
+|Amazon CloudFront
+|Amazon CloudWatch
+|Amazon API Gateway
 
 It can be used side-by-side with Boto in the same project, so it is easy to start using
 Boto3 in your existing projects as well as new projects. Going forward, API updates and all new
