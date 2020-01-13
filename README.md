@@ -102,3 +102,28 @@ Credentials and other boto-related settings can also be stored in a boto config 
 ![alt text](https://blog.testlodge.com/wp-content/uploads/2018/07/qa-in-devops.png "DevOps Ecosystem")
 
 #### jmespath
+
+####Planning
+
+Git
+Jira
+Confluence
+
+Development
+
+
+Testing
+
+Deployment
+
+Release
+
+
+Monitoring
+
+Nagios
+Splunk
+Slack
+New Relic
+Datadog
+Wireshark
