@@ -11,38 +11,38 @@ The table below outlines both the Amazon, and AWS services which the python BOTO
 
 
 
-| **Amazon Services**                                   | **AWS Services**                    |
+| **Amazon Services API Ref**                                   | **AWS Services**                    |
 |-------------------------------------------------------|:---------------------------------:|
-|Amazon Textract                                        |  AWS Certificate Manager                                |
-|Amazon Transcribe                                      |  AWS Cloud Development Kit (AWS CDK)
-|Amazon Translate                                       |  AWS CodeCommit
-|Amazon SNS                                             |  AWS Config
-|Amazon SQS                                             |  AWS DeepLens
-|Amazon Simple Email Service                            |  AWS IoT Greengrass
-|Amazon Pinpoint Email API                              |  ``AWS Identity and Access Management``
-|Amazon Pinpoint SMS and Voice API                      |  AWS IoT
-|Amazon Pinpoint                                        |  AWS IoT Things Graph
-|Amazon Polly                                           |  AWS Key Management Service
-|Amazon Relational Database Service                     |  AWS Lambda
-|Amazon Redshift                                        |  AWS Secrets Manager
-|Amazon Rekognition                                     |  AWS Step Functions
-|``Amazon S3``                                          |  AWS Security Token Service
-|Amazon Kinesis Data Analytics                          |  AWS Support
-|Amazon Kinesis                                         |
-|Amazon Kinesis Data Analytics for Java Applications    |
-|Amazon Inspector                                       |
-|Amazon GuardDuty                                       |
-|Amazon DynamoDB                                        |
-|Amazon EC2                                             |
-|Amazon Elastic Container Service                       |
-|Amazon Elastic Kubernetes Service                      |
-|Amazon Elastic Transcoder                              |
-|Amazon EMR                                             |
-|``Amazon S3 Glacier``                                  |
-|Amazon Comprehend Medical                              |
-|Amazon CloudFront                                      |
-|``Amazon CloudWatch``                                  |
-|Amazon API Gateway                                     |
+|[Amazon Textract](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/textract.html)                                        |  AWS Certificate Manager                                |
+|[Amazon Transcribe](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/transcribe.html)                                      |  AWS Cloud Development Kit (AWS CDK)
+|[Amazon Translate](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/translate.html)                                      |  AWS CodeCommit
+|[Amazon SNS](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/sns.html)                                            |  AWS Config
+|[Amazon SQS](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/sqs.html)                                             |  AWS DeepLens
+|[Amazon Simple Email Service]()                            |  AWS IoT Greengrass
+|[Amazon Pinpoint Email API](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/pinpoint-email.html)                            |  ``AWS Identity and Access Management``
+|[Amazon Pinpoint SMS and Voice API](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/sms-voice.html)                      |  AWS IoT
+|[Amazon Pinpoint](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/pinpoint.html)                                      |  AWS IoT Things Graph
+|[Amazon Polly](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/polly.html)                                         |  AWS Key Management Service
+|[Amazon Relational Database Service]()                     |  AWS Lambda
+|[Amazon Redshift](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/redshift.html)                                        |  AWS Secrets Manager
+|[Amazon Rekognition](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/rekognition.html)                                     |  AWS Step Functions
+|[``Amazon S3``](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/s3.html)                                          |  AWS Security Token Service
+|[Amazon Kinesis Data Analytics](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/kinesisanalytics.html)                          |  AWS Support
+|[Amazon Kinesis](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/kinesis.html)                                         |
+|[Amazon Kinesis Data Analytics for Java Applications]()    |
+|[Amazon Inspector](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/inspector.html)                                       |
+|[Amazon GuardDuty](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/guardduty.html)                                       |
+|[Amazon DynamoDB](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/dynamodb.html)                                        |
+|[Amazon EC2](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/ec2.html)                                             |
+|[Amazon Elastic Container Service](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/es.html)                       |
+|[Amazon Elastic Kubernetes Service]()                      |
+|[Amazon Elastic Transcoder](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/elastictranscoder.html)                              |
+|[Amazon EMR](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/emr.html)                                             |
+|[``Amazon S3 Glacier``](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/glacier.html)                                  |
+|[Amazon Comprehend Medical](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/comprehendmedical.html)                              |
+|[Amazon CloudFront](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/cloudfront.html)                                      |
+|[``Amazon CloudWatch``](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/cloudwatch.html)                                  |
+|[Amazon API Gateway](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/apigateway.html)                                     |
 
 It can be used side-by-side with Boto in the same project, so it is easy to start using
 Boto3 in your existing projects as well as new projects. Going forward, API updates and all new
