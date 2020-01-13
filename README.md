@@ -103,24 +103,24 @@ Credentials and other boto-related settings can also be stored in a boto config 
 
 #### jmespath
 
-####Planning
+#### Planning
 
 Git
 Jira
 Confluence
 
-Development
+#### Development
 
 
-Testing
+#### Testing
 
-Deployment
+#### Deployment
 
-Release
+#### Release
 
 
 
-Monitoring
+#### Monitoring
 
 Nagios
 Splunk
